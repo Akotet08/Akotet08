@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akotet 
 - 👀 I’m figuring out my interests
-- 🌱 I’m currently learning at Korea Advanced Institute of Technology
-- 💞️ I’m happy to collaborate passionate developers
+- 🌱 I’m currently learning at Korea Advanced Institute of Science and Technology
+- 💞️ I’m happy to collaborate with passionate developers
 - 📫 Reach me at akiyeshaw@gmail.com
 
 <!---
