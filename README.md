@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akotet 
-- 👀 I’m figuring out my interests
-- 🌱 I’m currently learning at Korea Advanced Institute of Science and Technology
+- 👀 Interested in GNNs, Federated Learning... and more
+- 🌱 I’m currently studying at Korea Advanced Institute of Science and Technology
 - 💞️ I’m happy to collaborate with passionate developers
 - 📫 Reach me at akiyeshaw@gmail.com
 
