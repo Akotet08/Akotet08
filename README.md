@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on Graph Neural Networks and LLMs
-
+- 👋 Hi, I’m Akotet 
+- 👀 Interested in GNNs, Federated Learning... and more
+- 🌱 I’m currently studying at Korea Advanced Institute of Science and Technology
+- 💞️ I’m happy to collaborate with passionate developers
+- 📫 Reach me at akiyeshaw@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akotet-tesema-bba59a161/) 
